@@ -1,0 +1,1 @@
+Change The input frequency in the HuffApplet init function.
